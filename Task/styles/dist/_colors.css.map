@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["_colors.scss"],"sourcesContent":["$light: #f7f7f7;\n$dark: #222121;\n$orange: orange;\n$orangeRed: #fb4b4e;\n$blue: #2541b2;\n"],"file":"_colors.css"}
